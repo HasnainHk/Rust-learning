@@ -1,5 +1,5 @@
  pub fn find_empty(){
-     let f1:String=String::from("Hasnian");
+     let f1:String=String::from("kashif");
      let search:bool=check_empty(&f1);
     println!("Value is {}",search);
  }
